@@ -79,7 +79,9 @@ Figures are available in the `figures` directory.
 
 Spatial analysis of urban morphology using QGIS and the Bavarian 3D Building Model. Building Coverage Ratio (BCR) was calculated to characterize urban form and support the interpretation of local thermal conditions.
 
-![Urban Morphology](morphology.png)
+<p align="center">
+  <img src="morphology.png" width="700">
+</p>
 
 ## Tools and Software
 
