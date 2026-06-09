@@ -73,6 +73,13 @@ Examples of outputs included in this repository:
 Figures are available in the `figures` directory.
 
 ---
+## Example Results
+
+### Urban Morphology Analysis
+
+Spatial analysis of urban morphology using QGIS and the Bavarian 3D Building Model. Building Coverage Ratio (BCR) was calculated to characterize urban form and support the interpretation of local thermal conditions.
+
+![Urban Morphology](morphology.png)
 
 ## Tools and Software
 
