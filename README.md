@@ -111,7 +111,7 @@ Spatial analysis of urban morphology using QGIS and the Bavarian 3D Building Mod
 
 Ali Ghamary Zamharir
 
-M.Eng. Candidate – Analytical Measurement, Instrumentation and Sensor Technology
+M.Eng. Analytical Measurement, Instrumentation and Sensor Technology
 
 M.Sc. Environmental Engineering
 
